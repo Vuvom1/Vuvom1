@@ -7,7 +7,6 @@ Welcome to my GitHub profile!
 - 🔭 I’m currently working on exciting projects.
 - 🌱 I’m always learning new technologies.
 - 💬 Ask me about coding, cloud, and more!
-- 📫 How to reach me: [Your Email/LinkedIn]
 
 ## Skills
 
@@ -19,6 +18,8 @@ Welcome to my GitHub profile!
 ## GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vuvom1&show_icons=true&theme=default)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vuvom1&layout=compact&theme=default)
 
 ## Connect with Me
 
