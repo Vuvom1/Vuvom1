@@ -15,9 +15,7 @@ Welcome to my GitHub profile!
 - Cloud: Azure
 - Tools: VS Code, Git, Docker
 
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vuvom1&show_icons=true&theme=default)
+## Most Used Languages
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vuvom1&layout=compact&theme=default)
 
