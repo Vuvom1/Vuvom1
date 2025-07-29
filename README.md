@@ -23,7 +23,7 @@ Welcome to my GitHub profile!
 
 ## Connect with Me
 
-- [LinkedIn](www.linkedin.com/in/minhvudak)
+- [LinkedIn](https://www.linkedin.com/in/minhvudak)
 
 ---
 
